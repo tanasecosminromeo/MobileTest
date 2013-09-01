@@ -1,0 +1,1 @@
+This is a test enviroment where I will test different phonegap features
